@@ -1,3 +1,8 @@
+"""
+This script coded by github.com/OmarAEH
+Feel free to contact me at anytime.
+"""
+
 import requests
 
 headerdic = {
